@@ -1,0 +1,7 @@
+ipykernel
+python-dotenv
+langchain
+langchain-community
+langchain-groq
+neo4j
+langchain_experimental
